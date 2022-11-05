@@ -12878,6 +12878,7 @@ if search_query == ("Foods"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if meatquery == ("Roostro"):
+      os.system("clear")
       print("The Roostro. The Roostro's habitat includes The Dry Reef, The Moss Blanket, The Indigo Quarry, The Ancient Ruins, The Glass Desert, and The Wilds. It is the favorite food of the Hunter Slime.")
       print("""                                                                 .'cx0KKKK0xc'   c0NWWX0o'                                         
                                                                .dOKNWWNNNNWWNKxldXWNXXNWW0c.                                       
