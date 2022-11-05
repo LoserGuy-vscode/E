@@ -35,40 +35,40 @@ if search_query == ("Slimes"):
   if slimes_query == ("Pink"):
     os.system("clear")
     print(Fore.MAGENTA + Back.BLACK + Style.BRIGHT +"So, you want to know about Pink Slimes? Well, they are found in almost every single corner of the Far, Far Range, and are the most common type of slime, and are most likely the first slime you'll encounter on your slimey journey.Their physical appearance is, as you would suspect, pink and slimy. Their diet consists of every single type of food, but they have no specific favorite. When fed, these slimes will produce pink plorts, the easiest type of plort to find, but also the cheapest on the market. The default value of these plorts is 10 Newbucks. If you purchase the Secret Style DLC, their Secret Style is Sparkly, which, as you would expect, makes them sparkly. Their favorite slime toy is a Beach Ball. Left is Pink, right is Sparkly.")
-    print(
-      """MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMWWNNNNNNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMWNX0OkxxxxxxkkO0KXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWNNNNNNNWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMNKkxdoollllllllllodxO0XNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNNXK00000OOOO00KKXNWMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMWXkxk0OdlccccccccccccccloxOXNWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNKK0OkO0XNNKOxxkxxxkkO0XWMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMWKxooxkxoccccccccc:,',;::;;:ox0NWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNX0OkkxxdxOKXKOxddddddddxOKWMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMWXkoccllcccc:;,,,,'......;::::clx0NMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOkkkxodxxdddxddooodxdddoodxOKWMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMNOolccccccc:'............'::::::coONMMMMMMMMMMMMMMMMMMMMMMMMMMMWNKOkxddddoodxdooooodxOKN0xdooooodOXNNWMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMWXxlc:;,,;:c:......',;;,..,::::::::o0NMMMMMMMMMMMMMMMMMMMMMMMMWNKOkxdddoooooooddoooodxkOKOxooooooodkOOKWMMMMMMMMMMMMMMMM
-MMMMMMMMMMMW0dlc;,,:::::;'....',,,,,;:::::::::lkXMMMMMMMMMMMMMMMMMMMMMMMWN0OxolllooooooodddooooooooddddoooooooodxOKNWMMMMMMMMMMMMMM
-MMMMMMMMMMMW0dc:::c::::::::;;,;;;:::::::::::::okXMMMMMMMMMMMMMMMMMMMMMMWX0kdc;lo:coooooooooooooooooooddooooooooodxOKNMMMMMMMMMMMMMM
-MMMMMMMMMMMWKxl::::::::::::::::::::::::::::::ld0WMMMMMMMMMMMMMMMMMMMMMWX0kd:..'',cooooooooooooooooooooooooooooooodxOKNMMMMMMMMMMMMM
-MMMMMMMMMMMMNkoc::::::::::::::::::::::::::::loxOKXWWMMMMMMMMMMMMMMMMMWX0kdc....'cooooodoooooooooooooooooooooolooccdxOKNMMMMMMMMMMMM
-MMMMMMMMMMMMWKxc::::::::::::::::::::::ccccccllllodk0XWWMMMMMMMMMMMMMMN0kdoc'.',cooooooooooooooooooooooodooool;:l,;ldkOKWMMMMMMMMMMM
-MMMMMMMMMMMMMWKxc::::::::::::::::::ccccccccccccccclldkKNMMMMMMMMMMMMWKOxooolcllooool::clooooooooooooooooooool,...'coxk0XMMMMMMMMMMM
-MMMMMMMMMMMMMMWXOoc:::::::::::cccccccccccccccccccccccldOXWMMMMMMMMMMN0kdoooooloollc,...';:clllooooollccloolol:...'cookOKWMMMMMMMMMM
-MMMMMMMMMMMMMMMMWX0kxdooodddolccccccccccccccccccccccccclxKWMMMMMMMMWXOxollooollll:.........'',,,;,,,'..;llllllc;;cllodk0NMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMWNNXXNNKkoccccccccccccccccccccccccccccd0NMMMMMMMWKkdlllllllllc'.....................':lllllllllllldkOXMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMWXkoccccccccc:cccccccccccc::cc:::cd0NMMMMMMWKkolllllllllc'......................:lllllllllllloxOXWMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMWNOoc::cc::cc:ccc::c::::c::::::::::cdKWMMMMMWKkollllllllll,.......',,,,,,''.....'clllllllllllloxOXMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMW0xc,,:::::::::::::::::::::::::::::clkXMMMMMWXkdllllllllllc,....,;::::::::;;'...;llllllllllllllx0NMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMNOdc,;::::::::::::::::::;;::::::::::lxKWMMMMMN0xlllllllllllc;...;::::::::::;'.':llllllllllllllokKWMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMXkoc::::,,::::::::::::;;,.,:::::::::cd0WMMMMMWXOdlllllllllcllc;,''',,,,,,,',,;clllccclllcccllld0NMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMXkoc::::,..'''';::::::;...,:::::::::ld0WMMMMMMWNKkkOdlccccccccllc:;;,;;;;;:clllccccccccccccclxKNMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMNOdl:::::;,''';::::::::,',:::::::::cokKWMMMMMMMMWWWWXOdlcccccccccclllllllllcccccccccccccclox0XWMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMWXOdc:::::::::::::::::::::::::::::cox0NMMMMMMMMMMMMMMWKdlccccccccccccccccccccccccccccclodk0NWMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMNKkoc::::::::::::::::::::::::::ldkKWMMMMMMMMMMMMMMMWNKOxdolcccccccccccccccccccllodxk0KNWWMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMWX0kdolc:::::::::::::::::cloxOKNWMMMMMMMMMMMMMMMMMMMMWNXK0OkxxdddddddddxxkkO0KXNNWMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWNXK0OOkkxxxxxxxxkkO0KXNWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWNNNNNNWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMWWWWWWMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
-MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+    print("""                                                                                                                                   
+                                                                                                                                   
+                   .,:cooooolc:;'.                                                                                                 
+                .,okOOkxxxxxxkkOOkdl:'.                                                ..;:loddxxddol:,.      .                    
+               ,dOkxdolllllllllllodxkkxo;.                                         .,cdk0000000OOOO0000Oxl,..lk;                   
+             .lOkxk0kdlccccccccccccccloxOko,.                                   .;ok000OkO0XNNKOxxkxxxkkO0K00NMKl.                 
+            .o0kooxkxoccccccccc:;,,;::;;:oxOx;.                               .lk00OkkxxdxOKXKOxddddddddxOKWMMMMWKd,               
+            c0koccllcccc:;,,,,'......;::::clxOx,                            'oO0OkkkxddxxddxxddooodxxddoodxOKWMMWk;.               
+           'kOolccccccc:'............'::::::coOO;                         .lO0OkxddddoodxdooooodxOKN0xdooooodOXNXd.                
+           c0xlc:;,,;:c:......',;;,..,::::::::o0k.                       ;kK0kxdddoooooooddoooodxkOKOxooooooodkOOKk'               
+           o0dlc;,,:::::;'....',,,,,;:::::::::lk0:                     .l00OkolllooooooodddooooooooddddoooooooodkOKO;              
+           o0dc:::c::::::::;;,;;;:::::::::::::ok0:                    .dK0kdc;lo:coooooooooooooooooooddooooooooodxO00:             
+           l0xl::::::::::::::::::::::::::::::ld0k'                   .dK0kd:..'',cooooooooooooooooooooooooooooooodxOK0;            
+           ;Oklc::::::::::::::::::::::::::::loxOOxl;.               .oK0kdc....'cooooodooooooooooooooooooooooloocldxOKO,           
+           .o0xc::::::::::::::::::::::ccccccllllodkOko'             :00kdoc'.',cooooooooooooooooooooooodooool;:l,;ldkOKx.          
+            .o0xl::::::::::::::::::ccccccccccccccclldkOo'          .xKOxooolcllooool::clooooooooooooooooooool,...'coxk0Kc          
+             .cOkdc:::::::::::cccccccccccccccccccccccldOOl.        :00kdoooooloollc,...';:clllooooollccloolol:...'cookOKk.         
+               .lxkkxdooodddolccccccccccccccccccccccccclx0d.      .dKOxollooollll:.........'',,,;,,,'..;llllllc;;clloxk00:         
+                 .':loddxKKkoccccccccccccccccccccccccccccdOx'     .xKkdlllllllllc'.....................':lllllllllllldk0Kl         
+                       .l0koccccccccc:cccccccccccc::ccc::cdOx.    .xKkolllllllllc'......................:lllllllllllloxOKo         
+                       ;OOoc;:cc::cc:ccc::c::::c::::::::::cd0o.   .xKkollllllllll,.......',,,,,,''.....'clllllllllllloxOKl         
+                      .d0xc,,:c:::::::::::::::::::::::::::clkO;   .dKOdllllllllllc,....,;::::::::;;'...;llllllllllllllx00;         
+                      ,OOd:,;::::::::::::::::::;;::::::::::lx0o    ;00xlllllllllllc;...;::::::::::;'.':llllllllllllllokKx.         
+                      :0koc::::,,::::::::::::;;,.,:::::::::cd0x.   .lKOdllllcllclcllc;,''',,,,,,,',,;clllllclllcccclld0O,          
+                      :0koc::::,..'''';::::::;...,:::::::::ld0x.    .:O0kkOdcccccccccllc:;;,;;;;;:clllcccccccccccccox0k,           
+                      'kOdl:::::;,''';::::::::,',:::::::::cok0l       ;0NWWXOdlcccccccccclllllllllccccccccccccccclxO0o.            
+                       ;OOdl:::::::::::::::::::::::::::::cox0x.       .cOWMMWKdlccccccccccccccccccccccccccccclodkOkl'              
+                        'dOkoc::::::::::::::::::::::::::ldk0d.          .o0dldkkxdolcccccccccccccccccccllodxkOOxl,.                
+                          ,ldkkdolc:::::::::::::::::cldxOkd;.             .   .,codxkkkxxdddddddddxxkkOOOkxol;.                    
+                             .,:loodddxxxdddddxxxxxxxdol;.                         ..,;cclllloolllllc:;,'.                         
+                                   ...',,;;;;;;;,''..                                                                              
+                                                                                                                                   
+                                                                                                                                   
+
 """
     )
     reset_query = input(Fore.MAGENTA + Back.BLACK + Style.BRIGHT +"                      Would you like to make another search? Y or N?" +"\n")
@@ -12294,3 +12294,220 @@ if search_query == ("Foods"):
 
     if fruitquery == ("Mint Mango"):
       print("The Mint Mango. This fruit is available in the Moss Blanket. The Mint Mango is the favorite food of the Honey slime.")
+      print("""                                                                                                                                   
+                                                                                                                                   
+                                             ....                                                                                  
+                                      .,cldxO00000kd;                                                                              
+                                .:xOOOKWWWNXXKKKKKNMX;                                                                             
+                                lNMMWWX0OxdoolllldKWWo                                                                             
+                               .kWMN0xocc::::;;;:dKWWKd'                                                                           
+                                cNWNOo:;;;;;;;;;:xNWMMW0,                                                                          
+                               .dNMWN0o:;;;;;;;;cOXXNWMX;                                                                          
+                              .kMMMMMWKo;;;;;;;;ckOxOXWNk,....',,,,,,,'..                                                          
+                              ,KMMMWNXXOl:;;;;;;cdxxxOXWWNKKKXNNNNNNNNNXK0kdoc;'.                                                  
+                              .dNMMWKkxxdolc:;;:ldxxxxOXNXXXKKKKKKKKKKKKXXNWWWWNKOdc,.                                             
+                           ':ldONMWWKkxxxxxxdolldxxxxxxkkxxxxxxxxxxxxxxxxkkOO00KXNWWN0d:.                                          
+                         ,xXWWNNXXXXKkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkOKXNWWXx:.                                       
+                        :XWWKOkkxxkkxxxxxxxxxxxxxxxxxxxxxdddddxxxkkOOkkxxxxxxxxxxxxxxk0XNWW0o'                                     
+                       .dWMN0xxxxxxxxxxxxxxxxxxxxxxdddddddddddxOXNNWWNXOxxddddddxxxxxxxxk0XWWXd'                                   
+                        ,OWWNKOxxxxxxxxxxxxxxxddddddddddddddddkKWWWMMWWKkxddddddddddxxxxxxkOKNWXd,                                 
+                         .:OWWNX0OxxxxxxxxxdddddddddddddddddddxOXNWWWWXOxxdddddddddddddxxxxxxOKNWXd.                               
+                           'OWWWXOxxxxxxdddddddddddddddddddddddxkkO00OkxdddddddddddddddddxxxxxxOXWW0c.                             
+                          .oXWNKkxxxxxddddooooodddddddddddddddddddddddddddddddddddddddddddddxxxxkKNWNd.                            
+                         .xWWN0xxxxxddooooooooooddddddddddddddddddddddddddddddddddddddddddddddxxxxOXWWO'                           
+                        .xWWXOxxxxddoooooooooooooooodddddddddddddddddddddddddddddddddddddddddddxxxxOXWW0;                          
+                       .dWWXOxxxxdooooooooooooooooooooddddodddddddddddddddddddddddddddddddddddddxxxxkKWMK:                         
+                       cXMN0xxxxdoooooooooooooooooooooodoooooooodoooooddddddddddddddddddddddddddddxxxkKWWK:                        
+                      'OMWKkxxxdoooooooooooooooooooooooooooooooooooooooooooooodddddddddddddddddddddxxxkKWWKc                       
+                      oWWXOxxxdoooooooooooooooooooooooooooooooooooooooooooooooodddddddddddddddddddddxxxkXWMNc                      
+                     '0MW0xxxdoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooddddddooddxxxONWWx.                     
+                     cNWNOxxddooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodoodxxxxKWM0'                     
+                    .xWWXkxxdoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodxxxOXWNl                     
+                    .xWWKkxxdooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooddxxxKWMO.                    
+                    .xWWKxxxdoooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooddxxONMK,                    
+                    .xWWKxxxooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooddxxOXWNc                    
+                    .xWWKxxdooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooodxxkXWWl                    
+                    .xWWKkxxollollllllllllllloooooooooooooooooooooooooooooooooooooooooooooooooooooooooodxxkKWWl                    
+                     oWWXkxxolllllllllllllllllllooooooooooooooooooooooooooooooooooooooooooooooooooooooodxxkKWWl                    
+                     ;XMNOxxoollllllllllllllllllllllooooooooooooooooooooooooooooooooooooooooooooooooooodxxkKWWl                    
+                     .kWWKkxdollllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooooooodxxkXWNl                    
+                      cNWXOxdollllllllllllllllllllllllllllllllllllllooooooooooooooooooooooooooooooooooodxxONWK;                    
+                      .OWWKkxdolllllllllllllllllllllllllllllllllllllllllloooooooooooooooooooooooooooooodxxKWMk.                    
+                       cXWNOxxolllllllllllllllllllllllllllllllllllllllllllllllllllllloooooooooooooooooodxOXWNl                     
+                       .dWWXOxdolllllllllllllllllllllllllllllllllllllllllllllllllllllloooooooooooooooodxx0WWO'                     
+                        .kWWKkxdollllllllllllllllllllllllllllllllllllllllllllllllllllllllloooooooooooodxONWNc                      
+                         ,0WWKkxdollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllloooodxkXWWx.                      
+                          ;0WWKkxdollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllooodxkKWW0'                       
+                           'OWWXOxdollllllllllllllllllllllllllllllllllllllllllllllllllllllllolllloodxkKNW0;                        
+                            .xNWN0kdollllllllllllllllllllllllllllllllllllllllllllllllllllllllllllodxkKNWK:                         
+                             .lKWNKkxdolllllllllllllllllllllllllllllllllllllllllllllllllllllllllodxkKWMK:                          
+                               ,OWWN0kdoollllllllllllllllllllllllllllllllllllllllllllllllllllllodxkKWWK:                           
+                                .cKWWXOxdollllllllllllllllllllllllllllllllllllllllllllllllllllodxOXWWO'                            
+                                  'oKWNXOxdolllllllllllllllllllllllllllllllllllllllllllllllloodk0NWNd.                             
+                                    'oKWWXOxdolllllllllllllllllllllllllllllllllllllllllllllodxOXWW0c.                              
+                                      .oKWWX0kdoollllllllllllllllllllllllllllllllllllllllodxkKNWNx'                                
+                                        .oKWWNKOxdollllllllllllllllllllllllllllllllllllodxkKNWNk;                                  
+                                          .:kXWNX0kxdolllllllllllllllllllllllllllllllodxOKNWW0c.                                   
+                                             ,d0NWNX0kxdollllllllllllllllllllllllloodk0KNWN0c.                                     
+                                               .;d0NWNXKOkdoollllllllllllllllloodxk0KNWWKd;.                                       
+                                                  .,oOXWWNXK0OkxdddoooooooddxkO0KXWWWKx:.                                          
+                                                     .':dOXNWWNNXXXKKKKKKKXXNNWWNKko;.                                             
+                                                          .,cldk0KKKNNNNNKKOkdl:,.                                                 
+                                                                ....',,''..                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+""")
+      reset_query = input(" Would you like to make another search? Y or N?""\n")
+      if reset_query == ("Y") or ("y"):
+        os.system("clear")
+      os.execl(sys.executable, sys.executable, *sys.argv)
+    if fruitquery == ("Phase Lemon"):
+      print("The Phase Lemon. This fruit is available in the Ancient Ruins and Viktor's Workshop. The Phase Lemon is the favorite of the Quantum slime.")
+      print("""                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                    ...';ccccccccccc:;,'..                                                         
+                              .               ..;lxOKXXNWMMMMMMMMMMMWWWNX0kdl:,..                                                  
+                          'cxO0Oxc.     .':ldkKNWMWWNNXXKKK00000000KKKXXNWWMMMNX0kdl:,..                                           
+                       .cOXWWXKXWWKl..:xKNWMMWNXK00OkkxxxxxxxxxxxxxxxxxxkOO0KXNNWMMMMWNKkdc'                                       
+                      .kWWKkoc:cdKWWXXWMWNXK0OkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkO0KKXNWWMMMNd.                                     
+                     .xWW0l;;;;;;ckNWNXKOkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkO0XWMMK,                                     
+                     .OMWKd:;;;;;;:oOKK0000OkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxO0KNWWMNl.                                     
+                     ,0MWKd,';::;;;;ckNWMMWWWNXK00OkkxxxxxxxxxxxxxxxxxxxxxxxxxkOO0KXWWMWWKd,                                       
+                    ,OWWKo,..'lkxl:;;:xNWWWWWWWWWWNNXKKKKKKK00000OOOkkOOO00KXXNWWMWKOdl:,.                                         
+                   'OWWKd,....,dXN0ddkKNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNWWWWMMMMMXd,.                                             
+                  .xWWXx;......;OWWNNNNNNNNNNNNNNNNNNNNNNNNNWWWWWWWWWWWNNNNNWWWWWWMWN0d:.                                          
+                  cNMNOc'......'oXNNNNNNNNNNNNNNNNNXXXNNNNNWWMMMMMMMMMWWNNNNNNNNNWWWWWMWKx:.                                       
+                 .OMWKd;.......,xNNNNNNXXXXXXXXXXXXXXXXNNNNWWMMMMMMMMMWWWNNNNNNNNNNNNWWWWMWKx:.                                    
+                 lNMNkc'.......:0NNNNXXXXXXXXXXXXXXXXXXXNNNNWWWMMMMMMWWWNNNNNNNNNNNNNNNNWWWWMW0l'                                  
+                .kMWKx:.......;xXNNNXXXXXXXXXXXXXXXXXXXXXNNNNNWWWWWWWWNNNXXXXXXNNNNNNNNNNNNWWWMWXd'                                
+                ,KMN0d;......;kNNNNXXXXXXXXXXXXXXXXXXXXXXXKKXXXXXXXXXXKK000KXXXXXXXXXXNNNNNNNWWWWWXd'                              
+                lNMXOo;.....;kXNNNXXXXXXXXXXXXXXXXXXXXXK00OOOO0000000OOOOOO0KXXXXXXXXXXXNNNNNNNWWWMMXo.                            
+                dWMXko;....,xXNNNXXXXXXXXXXXXXXXXXXXK00OOOOOOOOOOOOOOOOOOOOO00KXXXXXXXXXXXXXXNNNNNWWMWO;                           
+                dMMXko;...'oXNNNXXXXXXXXXXXXXXXXXXK0OOOOOOOOOOOOOOOOOOOOOOOOOO0KXXXXXXXKK0000KXNNNNWWWMXo.                         
+                dMMXko;...c0NNNXXXXXXXXXXXXXXXXXXKOOOOOOOOOOOOOOOOOOOOOOOOOOOOO0KXXXK00OOOO0000KXNNNNWWWWk'                        
+                oWMXkdc'.,xNNNXXKXXXXXXXXXXXXXXXXKOkOOkkkkkOOOOOOOOOOOOOOOOOO00KXXXK0OOOOOOOOOOO0XNNNNWWMW0,                       
+                :XMNOxl,.c0NNNXKKXXXKKKKKKXXXXXXXK0OkkkkkkkkOOOOOOOOOOOOOO00KKXXXXXK0OOOOOOOOOOOOOKXNNNWWWWK;                      
+                .kMWKkd:,dXNNXKKKKKKKKKKKKKKKKKKKKKOOkkkkkkkkkkkkkkkOOOO0KKXXXXXXXXXK0OOOOOOOOOOOOO0XNNNWWMMK,                     
+                 :XMNOxockNNNXKKKKKKKKKKKKKKKKKKKKKKOkkkkkkkkkkkkkkkO00KXXXXXXXXXXXXXK0OOOOOOOOOOOOO0KNNNWWMWO.                    
+                 .xWWXkxxKNNXKKKKKKKKKKKKKKKKKKKKKKKKOkkkkkkkkkkOOO0KKXXXXXXXXXXXXXXXX0OOOOOOOOOOOOOO0KNNNWWMWd.                   
+                  ;KMWKkOXNNXKKKKKKKKKKKKKKKKKKKKKKKKK0OkkkkkkO0KKKKXKKKXXXXXXXXXXXXXXK0OkOOkOOOOOOOOOOKNNNWWMXc                   
+                   cXMWK0XNNXKKKKKKKKKKKKKKKKKKKKKKKKKKK0OkOO0KKKKKKKKKKKKKKKKKKKXKXXXXK0kkkkOOkOOOOOOO0XNNNWMMO'                  
+                    :KMWNNNNXKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXKOkkkkOOO000KKKXXNNNWWMNc                  
+                     lWMWWNNXKKKKKKKKKKKKKKKKKKKKKKKKK0OkkO0KKKKKKKKKKKKKKKKKKKKKKKKKKKKXKOOO00KKKKKXXXXXXNNNWMMk.                 
+                     ;KMWWNNXKKKKKKKKKKKKKKKKKKKKKK0Okxxxxxk0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXKKKKKXXXXXNNNWWMK,                 
+                     .OMMWNNXOkOKKKKKKKKKKKKKKKKK0OkxxxxxxxxkO0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXXNNWWMNc                 
+                      oWMWWNKkdxOKKKKKKKKKKKKKK0OkxxxxxxxxxxxxkOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXXNNWWMWl                 
+                      ,KMWWNXOddxO0KKKKKKKKKK0OkxxxxxxxxxxxxxxxxkO0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWWMWd.                
+                      .dWMWWNKxddxO0KKKKKKK0Okxdddddddxxxxxxxxxxxxxk0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWWMWd.                
+                       ,KMWWWXOdddxO0KKKKK0kxddddddddddddddddxxxxxxxxkOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWWMWl                 
+                        lNMWWNXkdddxO0K00OxdddddddddddddddddddddxxxdxxxOKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWWMWl                 
+                        .xWMWWNKxdddxO00kdddddddddddddddddddddddddddxkO0KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWWMX:                 
+                         .OWMWWN0xdddk0kddddddddddddddddddddddddddxkO0000000KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKXNNWMMO.                 
+                          'OWMWWN0xoxO00kddddddddddddddddddddddxkOO0K00OOOOO00KKKKKKKKKKKKKKKKKKKKKKKKKKKKNNWWMWo                  
+                           'OWMWNX0xk0000kdooddddddddddddddddxkO000000OOOOOOO0KKKKK00000KKKKKKKKKKKKKKKKKXNNWWM0,                  
+                            'OWMWNXK000000kxooooooooooodddddkO000000000OOOOO00KKK00OOOOO00KKKKKKKKKKKKKKKXNWWMWo                   
+                             'kWMWWNXK00000OkdooooooooooodxO0000000000000000000000OOOOOOO0KKKKKKKKKKKKKKXNNWMM0,                   
+                              .oNMWWNXK000000Oxdoooooooodk0000000000000000000000000OOOOO00KKKKKKKKKKKKKKXNWWMNl                    
+                                :KWWWNNXK000000OxdoooodxO00000000000000000000000000000000KK00K0KKKKKKKKXNNWMWd.                    
+                                 'xNMWWNXK0000000OxdodkO000000000000000000OOO0000000000000000000000KKKXNNWMWO.                     
+                                  .:0WMWWNXK0000000OOO000000000000000000OOkkkOOO00000000000000000000KXNNWMW0,                      
+                                    .oXWWWWNXK0000000000000000000000000OOkkkOOOO00000000000000000000XNNWMW0,                       
+                                      'oKWMWWNXK000000000000000000000000OOkkkkOO00000000000000000O0XNWWMWk'                        
+                                        'oXWMWWNNXK0000000000000000000000OOOOOO000000000000000OOOKXNWWMNd.                         
+                                          .lONWWWWNXKK000000000000000000000000000000000000OOOkkOKNNWWW0:.                          
+                                            .;dKWMWWWNXKK0000000000000000000000000000OOOOkkkkkOKNNWMMO'                            
+                                               .:xKWMMWWNXXKK00OOOOOOOOOOOOOOOOOOOOkkkkkkkkkkk0XNWWMX:                             
+                                                  .:d0NWMWWWWNXXKK000OOOOOkkkkkkkkkOOOOOOOkkkOKNNWWWk.                             
+                                                     .':okKNWWWWWWWWNNNXXXXKKKKKKXXXNNNNNXXKKKNNWWWK;                              
+                                                          .':ldk0KXNWMMMMMMWWWWMMWMMMWWWMWWWWWWWMWO,                               
+                                                                ...',:cloodxkkkkdool:;,:ldk0KKK0x:.                                
+                                                                                            ...                                    
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+""")
+      reset_query = input(" Would you like to make another search? Y or N?""\n")
+      if reset_query == ("Y") or ("y"):
+        os.system("clear")
+      os.execl(sys.executable, sys.executable, *sys.argv)
+    if fruitquery == ("Prickle Pear"):
+      print("The Prickle Pear. This fruit is available in The Glass Desert. The Prickle Pear is the favorite food of the Dervish slime.")
+      print("""                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                               .;lddl:.                                                                                            
+                            'lkKNWNNWWKl.                                                                                          
+                          .xXWN0kdllxKWNd.                                                                                         
+                         ;0WNOo:;;;;;oKWNl                                                                                         
+                        ,KMNk:;;;;;;;;dXMX:                                                                                        
+                        'OWWKdc;;;;;;;;xNMK;    ..';:llc:,.                                                                        
+                         .l0WN0o:;;;;;;:kNWOccdk0XNWWWWWWNXOdl,.                                                                   
+                           .oXWNkc;;;;;;l0WMWWWNXK0OOkkOO0KXWWN0dc,.                                                               
+                             ,OWWKd:;;;;;o0K0Okxxk0KKK0OxodxkOKNWWN0o,.                                                            
+                              .oNMNOc;::cldddoodONWMMWWWKxoooodxO0KNWNOl'                                                          
+                             .;kNMWXxloodoooooodKWWWMWMMNkoooooooodxOXWWXkc.          .                                            
+                            ;OWWNKkdooooooooooloxKNWWWNXOdoooooooodoodk0XWWKd;..,;cldO00d,                                         
+                          ,xNWN0xdooooooolllllllloxkkkxdoooollllooooooodxOKNWNXXNWWWWNNNMk.                                        
+                        .dXWN0xdoooooolllllllllllllllllllllllllllllloooooodxOKXXKK00OkOXWk.                                        
+                       ;0WWKkdooooollllllllllllcccccccccccccccccccccclloooooodxkkxxxdx0WNl                                         
+                      'OWW0dooooollllllllccccccccccccccccccccccccccccccclloooodddddddONMK,                                         
+                      lWWKxoooollcccclcccccccccccccccccccccccccodddddolcccllooooodddxKWM0'                                         
+                     .xWW0doollcccccccccccccccccccccccccccccccoxkOOOkxdoccccclooooooxOXWW0:.                                       
+                     '0MNOdoolccccccccccccccccccccccccccccccclxkkkkxxxxdlccccccclooooox0NWNk,                                      
+                     ;KMNkoolccccccccccccccccccccccccccccccccoxxxxxdddddlc::ccccccloooodx0NWXd.                                    
+                     ;XMNkoolccccccccccccccccccccc::cc:::::::cllllllooolc:::::::::ccloooodkKWW0:                                   
+                     '0MNOoolc:c::cccccclodoccc:::::::::::::::::::::::::::::::::::::cclooodx0NWNd.                                 
+                     .kMW0dolc:::::cccloxkkxoc::::::::::::::::::::::::::::::::::::::::cclodddkKWW0c.                               
+                      lWWKxooc::::::codxxxxddoc:::::::::::::::::::::::::::::::::::::::::cloodddOXWNk'                              
+                      ;KMXkooc:::::clddddddddl::::::::::::::::::::::::::::::::::::::::::::clododx0NWKc.                            
+                      .kMWOdol:::::::ccllooolc::::::::::::::::::::::::::::::::lodooolc:::::cloooodONMNl.                           
+                      .kWWKxolc:::::::::::::::::::::::::::::::::::::::::::::cokOOOOOxoc::::::clooodkXWNkl;.                        
+                     ,kNWN0xdoc::::::::::::::;;;;;;::::::::::::::::::::::::cdkOOkkkxxxoc::::::ccodxxOXWWMWKx:.                     
+                   .oXWWXOkxdol::::::;;:;;;;;;;;;;;;;;;;;;::::::::::::::::lxkkkxxxdddxdl::::::::cdkOOO0KXNWMW0l.                   
+                  'kWWN0kxddddo:;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::::;;;;;;::coddddddddddoc:::::::::cdkkkkOOO0KNWW0,                  
+                 .dWMN0kkkkxxdoc:;;;;;;;;;;;;;;;:::;;;;;;;;;;;;;;;;;;;;;;:::ccloddddxoc:::::::::::ldxxxxxxkOKNMWo                  
+                  :KWWWWNNNNKkdo:;;;;;;;;;;;;;:coddolc:;;;;;;;;;;;;;;;;;;;:::;:::ccllc:::::::::::::odddddk0XWMW0,                  
+                   .:loood0WW0doc;;;;;;;;;;;;:oxkOOkkdl:;;;;;;;;;;;;;;;;;;;;;;;::;;;;;:::::::::::::ldddx0NWMNk:.                   
+                          ;KMNOdoc;;;;;;;;;:cdkOkkxxddoc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::;:::oddkXMNk;                      
+                           oNMXkol:;;;;;;;:lxOkkxddddddl:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;:looxXMK;                       
+                           .xWWKxoc;;;;;;:lxkkxdddddddddc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:cooxXMK;                       
+                            '0WN0doc;;;;;;codddddddddxddc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::;;;:cookNMK,                       
+                             :XMNOdl:;;;;;;;:cloddddxxdl:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:cloool::;:codONMO.                       
+                              oNWXkdl:;;;;;;;;;:clooolc;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:loddddddol::lodKWWd.                       
+                              .dWWKxol:;;;;;,;;;,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:oddddddddddolookXMX;                        
+                               .OWWKxoc;;;;;,,;;,,;;,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:lddddddddddddddx0WM0'                        
+                                ,0MW0xdc;,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:oddddddddddddddxOXWWk'                       
+                                .kMWXOkdc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;coddddddddddddkOKXWMX:                       
+                                :XMN0OOkoc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,,;;;;;;;;;coddddooloodkXWWX0x:.                       
+                               .xWWXOOOkxoc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;,,;;,,;;;:::::;;:ldkXWNx'                           
+                               ,KMNKOkkxdddl:;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;;;;;;;;;;;;;;;;;;cldONWXl.                            
+                               lNMN0Okxdddddoc;,,,,,,,,,,;:clllc::;,,,,,,,,,,,,,,,,,,,,;;;;;:coxKWWK:                              
+                               cXWWNXK0OOkOOkdl:;,,,,,,;codddxxdddoc:;,,,,,,,,,,,,,,,,,,;;;cox0NWNx'                               
+                                'lk0XNWWWWWWN0xoc;,,,,,:oddddddddxxdol:;,,,,,,,,,,,,,,,;;codOXWWO:.                                
+                                   ..,:clooONWN0xoc;,,,;lddddddddddddoc;,,,,,,,,,,,,,;:cox0XWWKl.                                  
+                                            ;kNWN0xoc;,,cddddddddddol:,,,,,,,,,,,,;;:ldOKNWNOc.                                    
+                                              ;kNWNKOxocldddddddolc:,,,,,,,,,,;;:coxOKNWWKd;.                                      
+                                                ;d0NWWXKOkdddddoc::;;;;;;::clodkOKXNWN0d:.                                         
+                                                  .,lxXWWKxdk0K00OOOOOOOO0KKXNWWWX0xl,.                                            
+                                                      :KMN00XWMWNNNNNNNNNNX0Oxdl;..                                                
+                                                       lNMWWWNk:,'''''''''..                                                       
+                                                       .ck0Od;                                                                     
+                                                          .                                                                        
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+                                                                                                                                   
+""")
+      reset_query = input(" Would you like to make another search? Y or N?""\n")
+      if reset_query == ("Y") or ("y"):
+        os.system("clear")
+      os.execl(sys.executable, sys.executable, *sys.argv)
