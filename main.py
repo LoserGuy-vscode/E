@@ -4,6 +4,7 @@ import os
 import sys
 from colorama import Fore, Back, Style, init
 #This is an edit
+#This is an edit II : The sequel
 init()
 init(autoreset=True)
 gray = "\033[1;30m"
