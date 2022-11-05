@@ -3,6 +3,7 @@
 import os
 import sys
 from colorama import Fore, Back, Style, init
+#This is an edit
 init()
 init(autoreset=True)
 gray = "\033[1;30m"
@@ -25,6 +26,7 @@ light_blue = "\033[1;34m"
 light_white = "\033[1;37m"
 print(Style.RESET_ALL)
 os.system("clear")
+#This is also and edit!
 search_query = input("What would you like to know about Slime Rancher? The main categories are Slimes, Characters, The Range Areas, Foods, Slime Science, The 7zee Rewards Club, and DLC. Please spell as they are spelled here!""\n")
 if search_query == ("Slimes"):
   os.system("clear")
