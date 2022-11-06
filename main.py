@@ -28,7 +28,7 @@ light_white = "\033[1;37m"
 print(Style.RESET_ALL)
 os.system("clear")
 #This is also and edit!
-search_query = input("What would you like to know about Slime Rancher? The main categories are Slimes, Characters, The Range Areas, Foods, Slime Science, The 7zee Rewards Club, and DLC. Please spell as they are spelled here!""\n")
+search_query = input("What would you like to know about Slime Rancher? The main categories are Slimes, Characters, The Range Areas, Foods, Slime Science, 7zee Rewards Club, Achievements, and DLC. Please spell as they are spelled here!""\n")
 if search_query == ("Slimes"):
   os.system("clear")
   slimes_query = input("Alright! You want to know about the various different types of slimes found on the Far, Far Range? What type of slime would you like to learn about? Pink, Phosphor, Rock, Tabby, Honey, Puddle, Boom, Rad, Crystal, Quantum, Dervish, Mosaic, Tangle, Fire, Hunter, Saber, Quicksilver, Gold, Lucky, Twinkle, Tarr, Glitch, Largos, or Gordos?""\n")
@@ -14059,3 +14059,6 @@ oWWXOxolc:;;:cloxk0NWMW0c'.',,,,,,,'...;oocldxxxxooooolc::lol;'.',,,,,,,,,,,;,,,
     if reset_query == ("Y") or ("y"):
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
+if search_query == ("7zee Rewards Club"):
+  zeequery = int(input("""Alright, you want to know about the many different levels of the 7zee rewards club? Enter a number from 1 through 28.
+  """)
