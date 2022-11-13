@@ -17324,3 +17324,5 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
     if reset_query == ("Y") or ("y"):
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
+  if zeequery == (20):
+    print("The twenteith rank of the 7zee Rewards Club is called Endless Mountain I")
