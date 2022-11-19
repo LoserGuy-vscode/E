@@ -16138,6 +16138,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (11):
+    os.system("clear")
     print("The eleventh level of the 7zee Rewards Club is called Playful Fox I. It costs 6250 Newbucks. The reward that comes with this rank are the Gingersnap and Peapod Chroma Packs, and the blueprint for the Market Link gadget. The Gingersnap Chroma Pack consists of a light brown, a dark cinnamon, and a blackish-blue. The Peapod Chroma Pack consists of a light grey, a light green, and a black. The first picture is Gingersnap, the second one is Peapod, and the third is the Market Link.")
     print("""                                                                                                                                   
                                                          .,odddddddddddo,.                                                         
@@ -16343,6 +16344,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (12):
+    os.system("clear")
     print("The twelfth rank of the 7zee Rewards Club is called Playful Fox II. It costs 7500 Newbucks. The reward that comes with this rank is the Grotto Upgrade.")
     print("""                                                                                                                                   
                                                                               ..,;:lodxxxxxxkkxdoollllllllc:;,.                    
@@ -16415,8 +16417,8 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
     if reset_query == ("Y") or ("y"):
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
-
   if zeequery == (13):
+    os.system('clear')
     print("The thirteenth rank of the 7zee Rewards Club is called Playful Fox III. It costs 10000 Newbucks. The rewards that come with this rank are the Decorizer, and the Vanguard and Willow Chroma Packs. The Vanguard Chroma Pack consists of a dark blue, a dark reddish-purple, and a light gray-blue. The Willow Chroma Pack consists of a tan, a brown, and a green. The first picture is Vanguard, second is Willow, and third is the Decorizer.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -16622,6 +16624,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (14):
+    os.system("clear")
     print("The fourteenth rank of the 7zee Rewards Club is called Silver Storm I. It costs 15000 Newbucks. The reward that comes with this rank is Slime Trophy I.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -16695,6 +16698,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (15):
+    os.system("clear")
     print("The fifteenth level of the 7zee Rewards Club is called Silver Storm II. It costs 20000 Newbucks. The rewards that come with this rank are the Daybreak and Eventide Chroma Packs. The Eventide Chroma Pack consists of a dark blue, a reddish-purple, and a light purple. The Daybreak Chroma Pack consists of a dark blue, a yellow, and a light grey. The first picture is Daybreak, the second one is Eventide.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -16834,6 +16838,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (16):
+    os.system("clear")
     print("The sixteenth rank of the 7zee Rewards Club is called Silver Storm III. It costs 25000 Newbucks. The reward that comes with this rank is the Overgrowth Upgrade.")
     print("""                                                                                                                                   
                                     ..,:clooddxxxdolc;'.                                                                           
@@ -16907,6 +16912,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (17):
+    os.system("clear")
     print("The seventeenth rank of the 7zee Rewards Club is called Dancing Mongoose I. It costs 32500 Newbucks. The rewards that come with this rank are the Salamander and Royalton Chroma Packs. The Salamander Chroma Pack consists of a dark blue, a gray, and a reddish-orange. The Royalton Chroma Pack consists of a really light gray, a blue, and a golden yellow. The first picture is Salamander, the second is Royalton.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17046,6 +17052,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (18):
+    os.system("clear")
     print("The eighteenth rank of the 7zee Rewards Club is called Dancing Mongoose II. It costs 40000 Newbucks. The reward that comes with this rank is the Slime Trophy II.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17119,6 +17126,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (19):
+    os.system("clear")
     print("The nineteenth rank of the 7zee Rewards Club is called Dancing Mongoose III. It costs 47500 Newbucks. The rewards that come with this rank are the Neopolitan and Mint Chip Chroma Packs, and Ultra Dash Boots. The Neopolitan Chroma Pack consists of a light grey-blue, a sand yellow, and a brown. The Mint Chip Chroma Pack consists of a brown, a gray-blue, and a mint green. The Ultra Dash Boots make sprinting even faster than the normal Dash Boots upgrade. The first image is the Neopolitan Chroma Pack, the second is the Mint Chip Chroma Pack, and the third is of the Ultra Dash Boots.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17324,6 +17332,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (20):
+    os.system("clear")
     print("The twenteith rank of the 7zee Rewards Club is called Endless Mountain I. It costs 60000 Newbucks. The rewards that come with this rank include the Master Gordo Snare and the Tank Booster Ultra. The Master Gordo Snare is a gordo snare that guarantees the capture of the gordo whose favorite food is used as bait. The Tank Booster Ultra makes the amount of items you can hold 100 instead of 50. The first one is the Master Gordo Snare, the second one is the Tank Booster Ultra.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17463,6 +17472,7 @@ oWMNxc::::;,,;cxOOOkdl:;,,,,''''................................'',:lxOXXx,..ckX
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (21):
+    os.system("clear")
     print("The twenty-first rank of the 7zee Rewards Club is called Endless Mountain II. It costs 75000 Newbucks. The rewards that come with this rank are the Ghost Wine and Volcanic Chroma Packs, and the Heart Module Ultra upgrade. The Volcanic Chroma Pack consists of a blue-gray, a grey, and a dark gray. The Ghost Wine Chroma Pack consists of a dark purple, a light blue, and a blue. The Heart Module Ultra upgrade makes ylur health 350 instead of 250. The first one is Ghost Wine, the second is Volcanic, the third is Heart Module Ultra.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17668,6 +17678,7 @@ oWNOoc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,;cd0XNX0Oxdoooooooooodxk0KXNNX00KNNKOkxd
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (22):
+    os.system("clear")
     print("The twenty-second rank of the 7zee Rewards Club is called Endless Mountain III. It costs 90000 Newbucks. The rewards that come with this rank are the Lab Upgrade and Golden Sureshot. Golden Sureshot triples the amount of Gold plorts you get when shooting a Gold slime. The first one is the Lab Upgrade, the second is Golden Sureshot.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -17807,6 +17818,7 @@ oWNOoc;,,,,,,,,,,,,,,,,,,,,,,,,,,,,,;,,,;cd0XNX0Oxdoooooooooodxk0KXNNX00KNNKOkxd
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (23):
+    os.system("clear")
     print("The twenty-third rank of the 7zee Rewards Club is called Wander Wolf I. It costs 120000 Newbucks. The rewards that come with this rank are the Knight Light and Pretty Loud Chroma Packs, and the Titan Drill Blueprint. The Knight Light Chroma Pack consists of a gray, a really light grey, and a dark gray. The Pretty Loud Chroma Pack consists of a blue-gray, a salmon pink, and a black.The first one is the  Knight Light Chroma Pack, the second one is the Pretty Loud Chroma Pack, and the third is the Titan Drill.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18012,6 +18024,7 @@ cNMXl,,,,,;dOOOOOkxollllllllllllddl:c:;,;::;;;,,;;;;;;;;;;;;,,,,,,,,;:odolllcl0W
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (24):
+    os.system("clear")
     print("The twenty-fourth rank of the 7zee Rewards Club is called Wander Wolf II. It costs 150000 Newbucks. The rewards that come with this rank are the Slime Trophy III, and the Abyssal Pump Blueprint. The first one is Slime Trophy III, the second is the Abyssal Pump.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18151,6 +18164,7 @@ cNMKc''''';oO000OOxollllllllllllddlcc:,;:c:;;;;;;,;;;,;;;;;;;;;;;,,,;cdxdoooccOW
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (25):
+    os.system("clear")
     print("The twenty-fifth rank of the 7zee Rewards Club is called Wander Wolf III. It costs 150000 Newbucks. The rewards that come with this rank are the Silverfox and Frozen Violet Chroma Packs, and the Royal Apiary Blueprint. The Silverfox Chroma Pack consists of a light gray, a shiny diamond blue, and a black. The Frozen Violet Chroma Pack consists of a shiny sapphire blue, a blue to sea foam green gradient, and a really light blue. The first one is Silverfox, the second one is Frozen Violet, and the third one is the Royal Apiary.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18356,6 +18370,7 @@ cNMXxooooodkOOOOOdolllllllollloxOxoll,...',;;;;;;;;;;;;;;;;;;;;;;;;;;:clolllldKM
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (26):
+    os.system("clear")
     print("The twenty-sixth rank of the 7zee Rewards Club is called Golden Owl I. It costs 150000 Newbucks. The rewards that with this rank are the Docks Upgrade and the Gold Slime Lamp Blueprint. The first one is the Docks Upgrade, the second one is the Gold Slime Lamp Blueprint.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18495,6 +18510,7 @@ cNMXxooooodkOOOOOdolllllllollloxOxoll,...',;;;;;;;;;;;;;;;;;;;;;;;;;;:clolllldKM
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (27):
+    os.system("clear")
     print("The twenty-seventh rank of the 7zee Rewards Club is called Golden Owl II. It costs 150000 Newbucks. The rewards that come with this rank are the Astro Pearl and Goldleaf Chroma Packs, and the Gold Warp Depot Blueprint. The Astro Pearl Chroma Pack consists of a gradient from shiny sapphire to shiny diamond blue, a shiny pearly white, and a black. The Goldleaf Chroma Pack consists of a light grey, a black, and a shiny gold. The first one is Astro Pearl, the second one is Goldeleaf, and the third one is the Gold Warp Depot Blueprint.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18634,6 +18650,7 @@ cNMXxooooodkOOOOOdolllllllollloxOxoll,...',;;;;;;;;;;;;;;;;;;;;;;;;;;:clolllldKM
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == (28):
+    os.system("clear")
     print("The twenty-eighth rank of the 7zee Rewards Club is called Golden Owl III. It costs 150000 Newbucks. The rewards that come with this rank are the Slime Trophy IV and the Gold Teleporter Blueprint. The first one is the Slime Trophy IV, and the second one is the Gold Teleporter.")
     print("""                                                                                                                                   
                                                                                                                                    
@@ -18773,10 +18790,157 @@ cNMXxooooodkOOOOOdolllllllollloxOxoll,...',;;;;;;;;;;;;;;;;;;;;;;;;;;:clolllldKM
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery != (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28):
+    os.system("clear")
     print("This part of An Idiot's Guide To Slime Rancher does not exist. Please retry your query.")
     reset_query = input(" Would you like to make another search? Y or N?""\n")
     if reset_query == ("Y") or ("y"):
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
 if search_query == ("Achievements"):
+  os.system("clear")
   ach_query = input("Alright, you want to know about the many achievements you can get in Slime Rancher? The main categories are Bronze, Silver, and Gold.")
+  if ach_query == ("Bronze"):
+    os.system("clear")
+    broquery = input("""Alright, you want to know about the easy achievements? The achievements are: Plort Peddler, Transplorter, Buck Buck Bagu-, Fruit Cocktail, Salad Bar, Fortunate, Up All Night, Not My Morning, While You Were Away, Omnivorous, Catch!, Carousel, Tasty!, Burstin' At The Seams, Boop!, You...Monster!, Rush Challenger, Onward...To SCIENCE!, Best Of The Worst, One Person At A Time, and Color Me Impressed.
+
+                                                                                                                                   
+                                                  ...',,,,,,,,,,,,,,,,,,,,,,,,'...                                                 
+                                             ..',;;::::::::::::::::::::::::::::::;,,...                                            
+                                         ..';:::::::::::::::::::::::::::::::::::::::::;,'..                                        
+                       ..'''.        ..';:::::::::::::::::::::::::::::::::::::::::::::::::;,..         .''..                       
+                     .,:clc:,.    ..,;::::::::::::::::::::::::::::::::::::::::::::::::::::::::;'.     .:cll:;..                    
+                   .,:ldOOo:;.  .,;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;'.  ':cxOxl:;.                   
+           .,,,.  .;coO00xc:,..;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::,.';:o0K0xc:,. .',,..          
+          ':clc:,,;cd0K0kl:::;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;::cd0K0kl:,';cll:,.         
+         .;:dOxc:::d0K0xc:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::coO00kc:::oOkc:.         
+         ':ck0Oo::lk0koc::::::::::::::::::::::::::::::::clodxxkkkkkkkkxxdolcc:::::::::::::::::::::::::::::::ldO0d::lkKOo:,.        
+         ,:lkK0x::oxocldxdl:::::::::::::::::okd::::loxO0KXNWWWWWWWWWWWWWWWNXKOkdlc::::::::::::::::::::::coxdoclddc:oOK0d:,.        
+         ,:lkKKxc:cldk00kl:::::::::::::::::o0WKdox0XNWWNXK0OkkxxdddddxxkkO0KXWWWNKOdl::::::::::::::::::::cdO0Oxocc:d0K0d:,.        
+        .':ckKKxclxO00Odc:::::::::::::::cokXWMWWWWWNKOkxdolc::::ccccccccccclodk0XNWWXOdl:::::::::::::::::::lx0K0kocd0KOo:;.        
+     .';;;::d0KOkOK0kdc:::::::::::::::cdOXWMMMMMMMN0xolc:::clodxxxxxxxxdollcccllodkKNWWXko:::::::::::::::::::oxOK0kk0Kkc::;;,.     
+    .,:llc::oOKKKOxoc::::::::::::::::::coKWMMMMWX0koc::coxkO0000OOOOO0000OkxdolllllldOXWWXOo:::::::::::::::::::ldk0KKKxc::llc:.    
+    .;:dOd::oO0Odlcc::::::::::::::::::cd0WWNXWN0dc::ldk000OkkkxxxxxxxxxkkOO00OkxolllllokXWWXkl::::::::::::::::::clok00d::lkkl:'    
+    .:cx0Ol:okxllxkl:::::::::::::::::lkNWNKxx0kc:cokO0OOkxxdddddddddddddddxxkOO0Oxolcloxk0NWW0o::::::::::::::::cxkocokd:cx0Ol:.    
+    .;cx00xcclcdO0xc::::::::::::::::o0WWXkdoolccdO00kxxddddddddddddddddddddddodxO0Oxocok000KWWXxc:::::::::::::::oO0xlll:o0Kkl:'    
+    .,:o0KOl:cx0KOl::::::::::::::::oKWWKxdooccok0Okxddddddddddddddddddddoooooooooxk0Odclx000KNMNkc::::::::::::::cx00kl:cxK0xc:.    
+     ':lOK0dcx0KOo::::::::::::::::oKWWKxoooclx0OkxdddddddddddddddddddooooooooooooooxO0kl:oOK00NMNxc::::::::::::::lk0KkllkK0d:;.    
+     .:cx00kx0KOo::::::::::::::::lOWWKxoooclk0Oxolcloddddddddddddoooooooooloolc:;;:ldk0kl;ckKO0NMXd:::::::::::::::lkKKkxOKkl:,     
+  .. .;:oOK00KOo:::::::::::::::::xNMNkdoolok0kdc'',.'lddddddddoolllllllllllolc'.'..'cok0ko;ckOk0WW0l:::::::::::::::lk0KKK0d:;. ..  
+.;::,,;:cx0KKkoloc::::::::::::::l0WW0doollk0Od:.  . .;ddo:,,;:::::cccc::;;;clc'    .,lokOkl;cddxXMNx::::::::::::::oolx0KKOl:;,,;:;'
+,:ldoc:::oOKkloOOl::::::::::::::dXMNkoooldOOxo,     .cdl,.      .......    .:l:.   .,llokOxc;clo0WWOc::::::::::::cxOdld00xc::cldo::
+':cx0kdc:cxkloOKkl:::::::::::::ckWWKxooookOxddc....'coo,                    .clc;,,;cllldOOo::llOWMKo::::::::::::cx00xlxOo::ok0kl:,
+.,:lkK0kl:lllkKKxc:::::::::::::cOWWKdoooxOkddddolclodoc.                    .;lllllllllllxOkl:clkNMXd:::::::::::::oOK0ollccd0K0dc;.
+ .;:okKKOo:cx0KOo::::::::::::::c0WW0doodkOkddddddddool:.      ..........    .:lllllllllllokOdcclxNMXd:::::::::::::ckKKkl:lx0K0dc:' 
+  .,:lk0KOolkK0xc::::::::::::::cOWWKxoodkOxddddddoollll;.    .',;;,,,,,'.   'cllllllllllllxOxlllkNMXo::::::::::::::oOK0dlkKKOdc:'  
+   .,:lx0KOk0Kkl::::::::::::::::xNMXxoodkOxdddddollllllc;.   .',;;,;;,,'. .,clllllllllllloxOkolo0WW0l::::::::::::::cd0KOO0Kko:;.   
+   .';:cdOKKKOocddc:::::::::::::oKMNOdodkOddddoolllllllll:,.. ...........,:lllllllllllllodxOkolxXWNkc::::::::::::oxllkKKK0kl::,..  
+ .,::c:::okKKkcoOOo:::::::::::::ckWWKxddxkxddolllllllllllllc:;,'''''',;:clllllllllllllloddxOOxdOWWKo::::::::::::ck0xcd0K0xc:::::;. 
+ .:coxoc::lk0xcx00xc:::::::::::::oKWW0dddxkdolllllclllllllllllllllllllllllllllllllllloodddk0XK0XMNx:::::::::::::oOKOloOOoc:clddl:, 
+ .,:lk0Odl:lxockKKkc::::::::::::::dXMNOdodxxollllcccccclccllllllllllllllllllllllllllodddxxOXWWWWWOl:::::::::::::d0KOolxo:cok0Od:;. 
+  .,:lk0KOxlc:ckKKkl::::::::::::::cxNMN0dlooddollcccccccccccccllllcclllllllllllllloodddxk0XWMMMMKo::::::::::::::d0KOlccldO0KOoc;.  
+   .,:cx0KKOxlcx0Kkl:::::::::::::::cxXMW0dllloooollllccccccccccccccccccllccllcllooddxkO0XWMMMMMMN0xoc:::::::::::d0KOlcok0K0ko:;.   
+     ';cok0KKOxk0Kkc:::::::::::::::::dKWWXkocccodddooolllllccccccccccclllllllooooooxOKNWMMMMMMMMMMWN0xl:::::::::d0KOxk0K0Odc:,.    
+      .,:cok0KKKKKkcclc:::::::::::::::lkNMNKxodxkOOOkxdollllllllllllllllllccccccccclooxKWMMMMMMMWX0xoc::::::clc:d0KKKK0Odl:;.      
+        .;:cox0KKKkccxko::::::::::::::::o0NWNKOkO0KKKK0Okkxdolc:::::::::::::ccclllllldOXWWNWMMWXkl:::::::::cxko:d0KK0kdl:;'.       
+       .';::::ldO0klcxKOo::::::::::::::::cdONWWX00OO0KKKKK0OdolllllllllllllllllllodkKNWWKxokNWKo::::::::::lx0Oocx00xoc::::,..      
+      .::loolc::cdxocx0KOl:::::::::::::::::cokKWWWXK0OOOOOxolllllllllllllllllldxOKNWWXOdc::ck0o::::::::::cx0Kklcxxl::cclooc:,      
+      .,:lxOOkxdlccc:oOK0xc:::::::::::::::::::cdkKNWWNXK0OkxdoooollloooddxkO0KNWWNXOxl::::::ll:::::::::::oOK0d::cccoxkOOkoc;.      
+       .';:lxOKK0kdlccd0KOo::::::::::::::::::::::clxk0XNWWWNNXXXXKKKXXXNNWWWNXKOxol:::::::::::::::::::::cx00kc:lokO0K0kdc:,.       
+         ..;cldk0KK0kddOK0xc:cl:::::::::::::::::::::::codxkO00KKXXXKKKK0Okxdolc:::::::::::::::::::::ccc:oOK0xdkOKK0Oxoc:,.         
+           ..,:cldkO0K0KKKOo:okkdl::::::::::::::::::::::::::::ccccccccc::::::::::::::::::::::::::coxkdccx0KK00K0kxoc:;'.           
+              .',;clodkO0K0xccd00Oxl:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::cdk00kl:dOK00kxolc:,'.              
+                 ..,;::codkOxlcd0KKOxl:::::::::::::::::::::::::::::::::::::::::::::::::::::::cdO0K0xlcokkxolc::,'.                 
+                 .',;::::::cooccok0KKOdc::::::::::::::::::::::::::::::::::::::::::::::::::::ok0KKOdc:lolc::::::;,.                 
+                 ,::ldxxddooollccldOKK0ko:::::::::::::::::::::::::::::::::::::::::::::::::cx0KK0koccllloodddxdoc:;.                
+                 .,:cldkO0KK00OOkkxO0KKKOxlc::::::::::::::::::::::::::::::::::::::::::::cdO0KKK0kkkOO000000Oxoc:,.                 
+                   .',:clodxkOO00000K00000Oxdolc::::::::::::::::::::::::::::::::::::cloxk0000000KK000Okxdolc:;'.                   
+                      ..',;::ccllooooooollloollc::::::::::::::::::::::::::::::::::::llooooolooooooollcc:;,'..                      
+                           ....,;:;::::::::::::cclodxxxxxxdolc::::::clodxxxkxxdolcc:::::::::;::;::,'....                           
+                              .,::::cccclloddxkOO0KKKKKKKK00OkkxxxxkkO00KKKKKKK00OOkxdoollcc::::::,.                               
+                              ,:cldkkkOO000KKKKKKKKK0Okxdooodk0KKKK0koooodxkO0KKKKKKKKK000OOOkkdl::,                               
+                              .';:lodxkO0000KK00Okxolc:::loxkxdooodxkkxolc::cloxkO0KK0K000Okxdoc:;'.                               
+                                 .',;::cllloooolcc::::ldkOOxlc;,,,,:coxOOkdl::::cclooooollc::;,'.                                  
+                                     .....'''''',::cok0K0xl:;'.    .';:lk0K0xoc::,''''''.....                                      
+                                               .;:ok0KKOoc;'.        .,:cdOKK0ko:;.                                                
+                                             .':cdOKK0kl:;.            .;:oOKKK0dc;'.                                              
+                                             ':lk0KK0xl:,.              .,:lk0KK0xc:'                                              
+                                            .;:ldxxdoc;'.                .':codxxxl:;.                                             
+                                             .,;;;;;,'.                    .',;;;;;,.                                              
+                                                 .                              .                                                  
+                                                                                                                                   
+""")
+    if broquery = ("Plort Peddler"):
+      os.system("clear")
+      print("The achievement Plort Peddler. The requirement to get this achievement is to sell 100 plorts at the Plort Market. It is worth 5 achievement points.")
+      print("""
+                                                                                                                                   
+                                                  ...',,,,,,,,,,,,,,,,,,,,,,,,'...                                                 
+                                             ..',;;::::::::::::::::::::::::::::::;,,...                                            
+                                         ..';:::::::::::::::::::::::::::::::::::::::::;,'..                                        
+                       ..'''.        ..';:::::::::::::::::::::::::::::::::::::::::::::::::;,..         .''..                       
+                     .,:clc:,.    ..,;::::::::::::::::::::::::::::::::::::::::::::::::::::::::;'.     .:cll:;..                    
+                   .,:ldOOo:;.  .,;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;'.  ':cxOxl:;.                   
+           .,,,.  .;coO00xc:,..;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::,.';:o0K0xc:,. .',,..          
+          ':clc:,,;cd0K0kl:::;:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;;::cd0K0kl:,';cll:,.         
+         .;:dOxc:::d0K0xc:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::coO00kc:::oOkc:.         
+         ':ck0Oo::lk0koc::::::::::::::::::::::::::::::::clodxxkkkkkkkkxxdolcc:::::::::::::::::::::::::::::::ldO0d::lkKOo:,.        
+         ,:lkK0x::oxocldxdl:::::::::::::::::okd::::loxO0KXNWWWWWWWWWWWWWWWNXKOkdlc::::::::::::::::::::::coxdoclddc:oOK0d:,.        
+         ,:lkKKxc:cldk00kl:::::::::::::::::o0WKdox0XNWWNXK0OkkxxdddddxxkkO0KXWWWNKOdl::::::::::::::::::::cdO0Oxocc:d0K0d:,.        
+        .':ckKKxclxO00Odc:::::::::::::::cokXWMWWWWWNKOkxdolc::::ccccccccccclodk0XNWWXOdl:::::::::::::::::::lx0K0kocd0KOo:;.        
+     .';;;::d0KOkOK0kdc:::::::::::::::cdOXWMMMMMMMN0xolc:::clodxxxxxxxxdollcccllodkKNWWXko:::::::::::::::::::oxOK0kk0Kkc::;;,.     
+    .,:llc::oOKKKOxoc::::::::::::::::::coKWMMMMWX0koc::coxkO0000OOOOO0000OkxdolllllldOXWWXOo:::::::::::::::::::ldk0KKKxc::llc:.    
+    .;:dOd::oO0Odlcc::::::::::::::::::cd0WWNXWN0dc::ldk000OkkkxxxxxxxxxkkOO00OkxolllllokXWWXkl::::::::::::::::::clok00d::lkkl:'    
+    .:cx0Ol:okxllxkl:::::::::::::::::lkNWNKxx0kc:cokO0OOkxxdddddddddddddddxxkOO0Oxolcloxk0NWW0o::::::::::::::::cxkocokd:cx0Ol:.    
+    .;cx00xcclcdO0xc::::::::::::::::o0WWXkdoolccdO00kxxddddddddddddddddddddddodxO0Oxocok000KWWXxc:::::::::::::::oO0xlll:o0Kkl:'    
+    .,:o0KOl:cx0KOl::::::::::::::::oKWWKxdooccok0Okxddddddddddddddddddddoooooooooxk0Odclx000KNMNkc::::::::::::::cx00kl:cxK0xc:.    
+     ':lOK0dcx0KOo::::::::::::::::oKWWKxoooclx0OkxdddddddddddddddddddooooooooooooooxO0kl:oOK00NMNxc::::::::::::::lk0KkllkK0d:;.    
+     .:cx00kx0KOo::::::::::::::::lOWWKxoooclk0Oxolcloddddddddddddoooooooooloolc:;;:ldk0kl;ckKO0NMXd:::::::::::::::lkKKkxOKkl:,     
+  .. .;:oOK00KOo:::::::::::::::::xNMNkdoolok0kdc'',.'lddddddddoolllllllllllolc'.'..'cok0ko;ckOk0WW0l:::::::::::::::lk0KKK0d:;. ..  
+.;::,,;:cx0KKkoloc::::::::::::::l0WW0doollk0Od:.  . .;ddo:,,;:::::cccc::;;;clc'    .,lokOkl;cddxXMNx::::::::::::::oolx0KKOl:;,,;:;'
+,:ldoc:::oOKkloOOl::::::::::::::dXMNkoooldOOxo,     .cdl,.      .......    .:l:.   .,llokOxc;clo0WWOc::::::::::::cxOdld00xc::cldo::
+':cx0kdc:cxkloOKkl:::::::::::::ckWWKxooookOxddc....'coo,                    .clc;,,;cllldOOo::llOWMKo::::::::::::cx00xlxOo::ok0kl:,
+.,:lkK0kl:lllkKKxc:::::::::::::cOWWKdoooxOkddddolclodoc.                    .;lllllllllllxOkl:clkNMXd:::::::::::::oOK0ollccd0K0dc;.
+ .;:okKKOo:cx0KOo::::::::::::::c0WW0doodkOkddddddddool:.      ..........    .:lllllllllllokOdcclxNMXd:::::::::::::ckKKkl:lx0K0dc:' 
+  .,:lk0KOolkK0xc::::::::::::::cOWWKxoodkOxddddddoollll;.    .',;;,,,,,'.   'cllllllllllllxOxlllkNMXo::::::::::::::oOK0dlkKKOdc:'  
+   .,:lx0KOk0Kkl::::::::::::::::xNMXxoodkOxdddddollllllc;.   .',;;,;;,,'. .,clllllllllllloxOkolo0WW0l::::::::::::::cd0KOO0Kko:;.   
+   .';:cdOKKKOocddc:::::::::::::oKMNOdodkOddddoolllllllll:,.. ...........,:lllllllllllllodxOkolxXWNkc::::::::::::oxllkKKK0kl::,..  
+ .,::c:::okKKkcoOOo:::::::::::::ckWWKxddxkxddolllllllllllllc:;,'''''',;:clllllllllllllloddxOOxdOWWKo::::::::::::ck0xcd0K0xc:::::;. 
+ .:coxoc::lk0xcx00xc:::::::::::::oKWW0dddxkdolllllclllllllllllllllllllllllllllllllllloodddk0XK0XMNx:::::::::::::oOKOloOOoc:clddl:, 
+ .,:lk0Odl:lxockKKkc::::::::::::::dXMNOdodxxollllcccccclccllllllllllllllllllllllllllodddxxOXWWWWWOl:::::::::::::d0KOolxo:cok0Od:;. 
+  .,:lk0KOxlc:ckKKkl::::::::::::::cxNMN0dlooddollcccccccccccccllllcclllllllllllllloodddxk0XWMMMMKo::::::::::::::d0KOlccldO0KOoc;.  
+   .,:cx0KKOxlcx0Kkl:::::::::::::::cxXMW0dllloooollllccccccccccccccccccllccllcllooddxkO0XWMMMMMMN0xoc:::::::::::d0KOlcok0K0ko:;.   
+     ';cok0KKOxk0Kkc:::::::::::::::::dKWWXkocccodddooolllllccccccccccclllllllooooooxOKNWMMMMMMMMMMWN0xl:::::::::d0KOxk0K0Odc:,.    
+      .,:cok0KKKKKkcclc:::::::::::::::lkNMNKxodxkOOOkxdollllllllllllllllllccccccccclooxKWMMMMMMMWX0xoc::::::clc:d0KKKK0Odl:;.      
+        .;:cox0KKKkccxko::::::::::::::::o0NWNKOkO0KKKK0Okkxdolc:::::::::::::ccclllllldOXWWNWMMWXkl:::::::::cxko:d0KK0kdl:;'.       
+       .';::::ldO0klcxKOo::::::::::::::::cdONWWX00OO0KKKKK0OdolllllllllllllllllllodkKNWWKxokNWKo::::::::::lx0Oocx00xoc::::,..      
+      .::loolc::cdxocx0KOl:::::::::::::::::cokKWWWXK0OOOOOxolllllllllllllllllldxOKNWWXOdc::ck0o::::::::::cx0Kklcxxl::cclooc:,      
+      .,:lxOOkxdlccc:oOK0xc:::::::::::::::::::cdkKNWWNXK0OkxdoooollloooddxkO0KNWWNXOxl::::::ll:::::::::::oOK0d::cccoxkOOkoc;.      
+       .';:lxOKK0kdlccd0KOo::::::::::::::::::::::clxk0XNWWWNNXXXXKKKXXXNNWWWNXKOxol:::::::::::::::::::::cx00kc:lokO0K0kdc:,.       
+         ..;cldk0KK0kddOK0xc:cl:::::::::::::::::::::::codxkO00KKXXXKKKK0Okxdolc:::::::::::::::::::::ccc:oOK0xdkOKK0Oxoc:,.         
+           ..,:cldkO0K0KKKOo:okkdl::::::::::::::::::::::::::::ccccccccc::::::::::::::::::::::::::coxkdccx0KK00K0kxoc:;'.           
+              .',;clodkO0K0xccd00Oxl:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::cdk00kl:dOK00kxolc:,'.              
+                 ..,;::codkOxlcd0KKOxl:::::::::::::::::::::::::::::::::::::::::::::::::::::::cdO0K0xlcokkxolc::,'.                 
+                 .',;::::::cooccok0KKOdc::::::::::::::::::::::::::::::::::::::::::::::::::::ok0KKOdc:lolc::::::;,.                 
+                 ,::ldxxddooollccldOKK0ko:::::::::::::::::::::::::::::::::::::::::::::::::cx0KK0koccllloodddxdoc:;.                
+                 .,:cldkO0KK00OOkkxO0KKKOxlc::::::::::::::::::::::::::::::::::::::::::::cdO0KKK0kkkOO000000Oxoc:,.                 
+                   .',:clodxkOO00000K00000Oxdolc::::::::::::::::::::::::::::::::::::cloxk0000000KK000Okxdolc:;'.                   
+                      ..',;::ccllooooooollloollc::::::::::::::::::::::::::::::::::::llooooolooooooollcc:;,'..                      
+                           ....,;:;::::::::::::cclodxxxxxxdolc::::::clodxxxkxxdolcc:::::::::;::;::,'....                           
+                              .,::::cccclloddxkOO0KKKKKKKK00OkkxxxxkkO00KKKKKKK00OOkxdoollcc::::::,.                               
+                              ,:cldkkkOO000KKKKKKKKK0Okxdooodk0KKKK0koooodxkO0KKKKKKKKK000OOOkkdl::,                               
+                              .';:lodxkO0000KK00Okxolc:::loxkxdooodxkkxolc::cloxkO0KK0K000Okxdoc:;'.                               
+                                 .',;::cllloooolcc::::ldkOOxlc;,,,,:coxOOkdl::::cclooooollc::;,'.                                  
+                                     .....'''''',::cok0K0xl:;'.    .';:lk0K0xoc::,''''''.....                                      
+                                               .;:ok0KKOoc;'.        .,:cdOKK0ko:;.                                                
+                                             .':cdOKK0kl:;.            .;:oOKKK0dc;'.                                              
+                                             ':lk0KK0xl:,.              .,:lk0KK0xc:'                                              
+                                            .;:ldxxdoc;'.                .':codxxxl:;.                                             
+                                             .,;;;;;,'.                    .',;;;;;,.                                              
+                                                 .                              .                                                  
+                                                                                                                                   
+""")
+      reset_query = input(" Would you like to make another search? Y or N?""\n")
+      if reset_query == ("Y") or ("y"):
+        os.system("clear")
+      os.execl(sys.executable, sys.executable, *sys.argv)
+    if broquery == ("Transplorter"):
