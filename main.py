@@ -18778,4 +18778,5 @@ cNMXxooooodkOOOOOdolllllllollloxOxoll,...',;;;;;;;;;;;;;;;;;;;;;;;;;;:clolllldKM
     if reset_query == ("Y") or ("y"):
       os.system("clear")
     os.execl(sys.executable, sys.executable, *sys.argv)
-if search_query == ("")
+if search_query == ("Achievements"):
+  ach_query = input("Alright, you want to know about the many achievements you can get in Slime Rancher? The main categories are Bronze, Silver, and Gold.")
