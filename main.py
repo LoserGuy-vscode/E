@@ -20038,3 +20038,5 @@ if search_query == ("Achievements"):
       if reset_query == ("Y") or ("y"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
+    if broquery == ("Onward...To SCIENCE!"):
+      print("The achievement Onward...To SCIENCE!. ")
