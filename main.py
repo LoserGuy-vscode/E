@@ -20423,9 +20423,9 @@ if search_query == ("Achievements"):
       if reset_query == ("Y") or ("y"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
-  if ach_query == ("Silver"):
-    os.system("clear")
-    silquery = input("""Alright, you want to know about the silver achievements in Slime Rancher? The silver achievements are: Plort Authority, Plort Powerhouse, Well-Off Rancher, (Mine, All Mine), On The Other Side, Into The Past, Jelly Belly Burst, Open Says Me, Fully Loaded, Hasty Exchange, Free Rangin', That Only works in Comic Books, Fireworks, Controlling the Chaos, Six Pack, Risky Business, Pool Party, Ball Pit, Rush Champion, Bea the Builder, Mint in Box, The Hunter Has Become...The Other Thing, and Renewal.
+ # if ach_query == ("Silver"):
+    #os.system("clear")
+    '''silquery = input("""Alright, you want to know about the silver achievements in Slime Rancher? The silver achievements are: Plort Authority, Plort Powerhouse, Well-Off Rancher, (Mine, All Mine), On The Other Side, Into The Past, Jelly Belly Burst, Open Says Me, Fully Loaded, Hasty Exchange, Free Rangin', That Only works in Comic Books, Fireworks, Controlling the Chaos, Six Pack, Risky Business, Pool Party, Ball Pit, Rush Champion, Bea the Builder, Mint in Box, The Hunter Has Become...The Other Thing, and Renewal.
                                                                                                                                        
                                                                                                                                    
                                                   ...',,,,,,,,,,,,,,,,,,,,,,,,'...                                                 
@@ -20491,4 +20491,4 @@ if search_query == ("Achievements"):
                                             .;:ldxxdoc:'.                .':codxxdl:;.                                             
                                              .,;;;;;,'.                    .',;;;;;,.                                              
                                                                                 .                                                  
-                                                                                                                                   """)
+                                                                                                                                   """)'''
