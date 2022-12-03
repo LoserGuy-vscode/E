@@ -18944,6 +18944,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Transplorter"):
+      os.system("clear")
       print("The achievement Transplorter. The requirement to get this achievement is to sell 500 plorts at the Plort Market. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19016,7 +19017,8 @@ if search_query == ("Achievements"):
       if reset_query == ("Y") or ("y"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
-    if broquery == ("Buck Buck Bagu-")
+    if broquery == ("Buck Buck Bagu-"):
+      os.system("clear")
       print("The achievement Buck Buck Bagu-. The requirement of this achievement is feed 100 chickens to slimes on your ranch. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19090,6 +19092,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Fruit Cocktail"):
+      os.system("clear")
       print("The achievement Fruit Cocktail. The requirement for this achievement is to have 3 DIFFERENT fruit trees on the Ranch at the same time. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19163,6 +19166,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Salad Bar"):
+      os.system("clear")
       print("The achievement Salad Bar. The requirement for this achievement is to have 3 different veggie gardens on the Ranch at the same time. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19236,6 +19240,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Fortunate"):
+      os.system("clear")
       print("The achievement Fortunate. The requirement for this achievement is to earn 5000 Newbucks. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19309,6 +19314,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Up All Night"):
+      os.system("clear")
       print("The achievement Up All Night. The requirement for this achievement is to stay awake from 6am to 6am the next day. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19382,6 +19388,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Not My Morning"):
+      os.system("clear")
       print("The achievement Not My Morning. The requirement for this achievement is to be knocked out before 10 AM. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19455,6 +19462,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("While You Were Away"):
+      os.syste,("clear")
       print("The achievement While You Were Away. The requirement for this achievement is to return to the Ranch after 24 hours. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19528,6 +19536,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Omnivorous"):
+      os.system("clear")
       print("The achievement Omnivorous. The requirement for this achievement is to feed Pink slimes 10 different foods. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19600,7 +19609,8 @@ if search_query == ("Achievements"):
       if reset_query == ("Y") or ("y"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
-    if broquery == ("Catch!")
+    if broquery == ("Catch!"):
+      os.system("clear")
       print("The achievement Catch!. The requirement for this achievement is to shoot food into an airborne slime's mouth. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19674,6 +19684,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Tasty!"):
+      os.system("clear")
       print("The achievement Tasty!. The requirement for this achievement is to feed 50 slimes their favorite food. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19747,6 +19758,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Carousel"):
+      os.system("clear")
       print("The achievement Carousel. The requirement for this achievement is to incinerate an elder chicken. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19820,6 +19832,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Burstin' At The Seams"):
+      os.system("clear")
       print("The achievement Burstin' At The Seams. The requirement for this achievement is to have at least 50 items in each slot of a fully upgraded silo. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -19893,6 +19906,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Boop!"):
+      os.system("clear")
       print("The achievement Boop!. The requirement for this achievement is to let a Tabby slime headbutt you right on the nose. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -19966,6 +19980,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Rush Challenger"):
+      os.system("clear")
       print("The achievement Rush Challenger. The requirement for this achievement is to earn 10000 Newbucks by the end of Rush Mode. It is worth 10 achievement points.")
       print("""
                                                                                                                                    
@@ -20039,6 +20054,7 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
     if broquery == ("Onward...To SCIENCE!"):
+      os.system("clear")
       print("The achievement Onward...To SCIENCE!. The requirement for this achievement is to fabricate your first Slime Science gadget. It is worth 5 achievement points.")
       print("""
                                                                                                                                    
@@ -20112,4 +20128,5 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
   if zeequery == ("You...Monster!"):
-    print("")
+    os.system("clear")
+    print("The achievement You...Monster!. The requirement for this achievement is to send an adorable chick to a fiery end with an Incinerator. It is worth 5 achievement points.")
