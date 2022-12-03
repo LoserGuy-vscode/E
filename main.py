@@ -20424,4 +20424,71 @@ if search_query == ("Achievements"):
         os.system("clear")
       os.execl(sys.executable, sys.executable, *sys.argv)
   if ach_query == ("Silver"):
-    silquery = input("Alright, you want to know about the silver achievements in Slime Rancher? The silver achievements are: Plort Authority, Plort Powerhouse, Well-Off Rancher, (Mine, All Mine), On The Other Side, Into The Past, Jelly Belly Burst, Open Says Me, Fully Loaded, Hasty Exchange, Free Rangin', That Only works in Comic Books, Fireworks, Controlling the Chaos, ")
+    os.system("clear")
+    silquery = input("""Alright, you want to know about the silver achievements in Slime Rancher? The silver achievements are: Plort Authority, Plort Powerhouse, Well-Off Rancher, (Mine, All Mine), On The Other Side, Into The Past, Jelly Belly Burst, Open Says Me, Fully Loaded, Hasty Exchange, Free Rangin', That Only works in Comic Books, Fireworks, Controlling the Chaos, Six Pack, Risky Business, Pool Party, Ball Pit, Rush Champion, Bea the Builder, Mint in Box, The Hunter Has Become...The Other Thing, and Renewal.
+                                                                                                                                       
+                                                                                                                                   
+                                                  ...',,,,,,,,,,,,,,,,,,,,,,,,'...                                                 
+                                             ..',;;::::::::::::::::::::::::::::::;,,...                                            
+                                         ..';:::::::::::::::::::::::::::::::::::::::::;,...                                        
+                       ..''..        ..',:::::::::::::::::::::::::::::::::::::::::::::::::;,..         .''..                       
+                     .,:clc:,.    ..,;:::::::::::::::::::::cclllloollllcc:::::::::::::::::::::;'.     .:cll:;..                    
+                   .,:ldOOo:;.  .,;::::::::::::::::cldxkO0KKXXNNNNNNNNXXK00kxdolc::::::::::::::::;'.  ':ckOxo:;.                   
+           .,,'.  .;coOKKxc:,..;::::::::::::::codk0XNWWWWWWWWWWNNNNNNNWWWWWWWWWXK0kdlc::::::clc:::::,.';:oOK0xc:,. .',,..          
+          ':clc:,,:cd0K0kl:::;:::::::::::::ldOKNWWWWNNNXXXKKKKKKK00KKK0KKKKXXNNWWWWWX0kdc:::d0xc::::::;::cd0K0kl:,';cll:,.         
+         .;:dOxc:::d0K0xl:::::::::::::::lx0XWMWWNXXKKKKKKKKK00000000000000000000KXNNWWWWXOddKWNkc:::::::::coOK0xc:::oOxc:.         
+         ':ckKOo::lk0koc:::::::::::::cdOXWWWWNXKKKKKK0OkkxddolllllllllooddxkkO000000KXNWWMWWWMMW0dc:::::::::lxOOd::lkKOo:,.        
+         ,:lkK0xc:odocldxdl::::::::cd0NMWNNXKKKK00kxdlcc::::::::cccc::::::::clodxkO000KNWMMMMMMMMWXOxoc:coxdoclddc:oOK0d:,.        
+         ,:lkKKxc:cldk00kl:::::::cdKWMWNXKKKK0Oxdl:::::cllooodddddddddddoollcc:::cldk0XWWMMMMMMMMWNKOdl::cxO0Oxoc::d0K0d:,.        
+        .':ckK0xclxOK0Odc:::::::o0NMWNXKKKK0koc::::clodxkkxxddxxxxxxxxxxxxxxxdoolc:::ldOKNWMMMMMMWKo:::::::lx0K0kocd0KOo:,.        
+     .';;;::d0KOkO00kdc:::::::ckXWWNXKKKKOxl:::clodxkkxdooodxkOOO00000OOOkkxxxxkxxolc::cokKNMMMWWMWKdc::::::cox0K0kk0Kkc::;;,.     
+    .,:llc::oOKKKOxoc::::::::o0WMWNXKKK0xl:::codkkkxooodxO0KKKKKKKKKKKKKKK00Okkkkkkxxol::coONWWNNWWMNkl::::::::ldO0KKKxc::llc;.    
+    .;cdOo::oO0Odlcc::::::::dKWWWXKKK0kl:::coxkkxdoodk0KKKK000OOOOOOOOO000KKKK0Okkkkkkxdlc:cdKNNNNNWMW0l::::::::clok00d::lkkl:'    
+    .:cx0Ol:okxllxkl:::::::dXWWNXK000xc::coxkkxdodk0KKK00OOOOOOOOOOOOOOOOOOO00KKK0kxxxk0Oxl::lOXNNNNWMW0o::::::cxkocokd:cx0Ol:.    
+    .;:d00xcclcdO0xc::::::oKWWNXK0KOoc::ldkkkxodk0KKK0OOOOOOOOOOOOOOOOOOOOkkkkOO0KKOxdkKXX0o::cxXNNNNWMW0l::::::o00xlll:o0Kkl:'    
+    .,:o0KOl:cx0Kkl::::::l0WMNXK00Oo:::lxkkkddk0KK0OOOOOOOkkOOOOOOOOOOkkkkkkkkkkkO0KKkdx0XN0dc:cxXNNNNWMWOc:::::cx0Kkl:cxKKxc:.    
+     ':lkK0dcx0KOo::::::ckWMWXK00Oo:::lxkkxdxOKK0OkOOkOOOOOOkkOOOOOOkkkkkkkkkkkkkkkOKKOxokKNKxc:cxKKKKNWMNx::::::lkKKkllOK0d:;.    
+     .:cx00kx0KOo:::::::dXMWNK000dc::lxkkxdx0KKOkdodkkOOOOOOkkkkkkkkkkkkkkkkkxdlcclxO0K0xodKNKdc:lk0OOKNMW0l::::::lk0Kkx0Kkl:'     
+  .. .,:oOK00KOo:::::::cOWMNX000kl::cdkkkxx0K0kl'',.,okOOkkOOkkkkkkkkkkkkkkkkd,.'..,ok0K0xodKKOo::okkk0XWMNx:::::::lk0KKK0d:;. ..  
+.;::,,;:cx0KKkoloc:::::oKMWNK000d:::okkkxx0X0Ol.     :kkxc;;:cllooooooolc:cdkd'     ;xk0K0xldOOdc:cxOkOKNMW0c:::::oolx0KKOl:;,,;:;'
+,:ldoc:::oOKkloOOl:::::dNMWXK00Ol::cdkkkxOKKOk;     .lkd,        .....     'oxl.    :xkk0KOoldkxo::okkO0NWMKo::::cxOdld00xc::cldo::
+':cx0kdc:ckkloOKkl:::::kWMWXKO0kl::lxkkxk0K0Okl.. .'lkx;                    'dkdc;;cdkkkOKKkodkxoc:okkk0XWMXd::::cx00xlxOo::lk0kl:,
+.,:lkK0kl:lllkK0xc::::ckWMNX0O0kc::oxkkkOK0Okkkxoodxkko.                    .ckkkkkkkkkkkOK0ddxkdc:lkkk0XWMNx:::::o0K0ollccd0K0d:;.
+ .;:oOKKOo:cd0KOo:::::ckWMWX0O0kc::okkkk0K0kkkkkkkkkkko.      ..',,,,,..    .lkkkkkkkkkkkk0Kkdxkdc:lxkk0XWMNx:::::ckKKkl:lx0KOdc:' 
+  .,:lk0KOolkK0xc::::::kWMWX0O0kl::oxkkk0KOkkkkkkkkkkkxc.    .;llllllll;.   ;dkkkkkkkkkkkk0KOxxkdc:lkkk0XWMXd::::::oOK0dlk0KOdc;'  
+   .,:lx0KOk0Kkl:::::::dNMWXKOOOo::lxkkk00Okkkkkkkkxkkkxc.   .;lllllllc,. .;dxkkkkkkkkkkkkOK0kxxo::oxkO0NWMKo::::::cd0KOO00ko:;.   
+   .';:cdOKKKOocddc::::lKWWNK0OOxc:cdkkk00Okkkkkkxxxxxxxxo:.. ..,,,,,'...;oxkkkxxxkkkkkkkkOK0kkxl:cdkkOKNMWOc::::oxllkKKK0kl::,..  
+ .,::c:::oOKKkcoOOo::::ckWMWXKOOkl::lxkkO0Okkkkkxxxxxxxxkxxxoc;,,,,,,;codxkkkkkkkkkxxxkkkkO0Okkoc:lxkk0XWMNd::::ck0xcd0K0xc:::::;. 
+ .:coxoc::lk0xcx00xc::::oKMWNK0OOxc::okkk00OkkxxxxxxxxxxxxxxxxxxxxxxkkkkkkkkxxkkkkxxkkkkkO0Okkdc:cdkkOKNMW0l::::oOKOloOOoc:clddc:, 
+ .,:lk0Odl:lxolkKKkc::::cxNMWXKOOOdc:cokkkOOkkxxxxxxxxkkkxxxxxxxkkxxxxxxxkxxxxxxkxxkkkkkOOOkkxl:cdkkO0NWMXd:::::d0KOolxo:cok0Oo:;. 
+  .,:lk0KOxlc:ckKKkl:::::lOWMWXKOOOdcclokkkkOOkkxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxkkkkOOOOkkkxl:cokkk0XWMNkc:::::d0KOo:cldk0KOo:;.  
+   .,:cx0KKOxlcxKKkl::::::l0WMWX0OOkk0xcoxkkkkkkkkkkkxxxxxxxxxxxxxxxxxxxxxxxxxxxkkOOkOkkkkkdl:cdkkk0XWMWOc::::::x0KOlcdO0K0ko:;.   
+     ';cok0KKOxk0Kkl:::::::o0WMWXKOOXWXd:ldxxxkOOOOkkkkkkkxxxxxxxxxxxxxxkkkkkkkkkxxxkkkkkxoc:ldkkO0XWMNOl:::::::d0KOxk0K0Odc:,.    
+      .,:cok0KKKKKkcclc:::::l0WWWXKXWMWKdccldkO0KKKK0Okkxxxxxxkkxxxxxxxxxdddddddddxxkkkxoc:coxkkOKNWMNkc::::clc:d0KKKKKOdl:;.      
+        .;:cox0KKKkccxko:::::ckNWWWWMMMMNOl:clxOKNNNNNXK00OOkxddddddddoooddddxxxkkkkxxoc:codkkO0KNWWXxc::::cxOo:d0KK0kdl:;'.       
+       .';::::ldO0klcxKOo:::::lOWMMMMMMMMWXOdlcldk0KXNNNNNNK0kkkkxxxxxxxkkkkkkkkkxxdlc:coxkkOOKNWMN0o:::::cxKOlcx00xoc:::;,..      
+      .::loolc::cdxocx0KOoldxOKNMMMMMMMMMMMMWX0kxdooxO0KXX0Okkkkkkkkkkkkkkkkkxxdolc:cloxkkOOKXWMWKxc:::::cx0Kklcxxl:::clooc:,      
+      .,:lxO0kxdlccc:oOKKOxOKNWMMMMMMMMMMMMMMMWWN0dc:cloddddxxxxxxxxxxxxxddoolccccldxkkkO0KNWWWXkl:::::::oOK0d:ccccoxkOOkoc;.      
+        ';:lx0KK0kdlccd0KOo:cox0NMMMMMMMMMMWWNNNNXK0kdoc:::cccllllllllcccccccloodxkkkO0KXNWMWKxl::::::::ckKKkl:loxO0K0kdc:,.       
+         ..;:ldO0KK0kddOK0xc:cccd0NMMMMWWNWMWWWNNNNNNKOxddooolllllllllooodddxkkkkOO0KXNWWWXOdc::::::clc:oOK0xdkO0K0Oxoc:,.         
+           ..,:cldkO0K0KKKOo:okkdoxXWMWKdox0NWWWWWWNNK0OOkkkkkkkkkkkkkkkkkkOOO0KKXNWWMWX0xl::::::coxkxccx0KK0KK0kxoc:;'.           
+              ..,;:lodkO0KKxccx0KOxkXWKo:::clxOKNWMWWWNNXXXKKK000000000KKKXXNNWWWMWNKkdl:::::::cdk0Kkl:d0K00kxdlc:;'.              
+                 ..,;:ccodkOxlcd0KK0KXx::::::::codk0KXNWWMWWWWWWWWWWWWWWWMWWWNXKOkdlc::::::::cdO0K0klcdkOxolc::,'.                 
+                 .';;::::::looccok0KKKxc::::::::::::clodxkkO00KKKKKKKK00Okkxolc:::::::::::::ok0KKOdc:lolc::::::;,.                 
+                 ,::ldxxdddoollccldOKK0ko::::::::::::::::::::::ccccccc::::::::::::::::::::cx0KK0klccclloodddxdoc:;.                
+                 .,:cldkO0K000OOkkxO0KKKOxlc::::::::::::::::::::::::::::::::::::::::::::cdO0KKK0kxkOO000000Oxoc:;.                 
+                   .',;clodxkOO00000000000Okdolc::::::::::::::::::::::::::::::::::::cloxk0000000K0000Okxdolc:;'.                   
+                      ..',;::cllloooooooooloollc:::::::::::::::::::::::::::::::::::cllooooolloooooollcc:;,'..                      
+                           ...',;:;::::::::::::cclodxxkkxxdolc::::::clodxxxxxxdollc::::::::;;::;::,'....                           
+                              .,::::cccclloodxkOO0KKKKKKKK00OkkxxxxkkO00KKKKKKK00OOkxddollcc::::::,.                               
+                              ,::lxkkkOO000KKKKKKKKK0Okxdooodk0KKKK0koooodxkO0KKKKKKKKK000OOkkxdl::,                               
+                              .';:lodxkO000KKK00Okxolc:::ldxkxdooooxxkxol:::cloxkO0000000OOkxdoc:;'.                               
+                                 .',;::cllooooolcc::::ldkOOxlc;,,,,:coxOOkdl::::cclooooollc::;,'.                                  
+                                     .....'''''',::cokO00xl:;'.    .';:lk0KOxoc::,'''''''....                                      
+                                               .,:ok0KKOoc;'.        .,:cdOKK0ko:;.                                                
+                                             .':cxOKK0kl:;.            .;:oOKKK0dc:'                                               
+                                             ':lk0KK0xl:,.              .,:lk0KK0xc:'                                              
+                                            .;:ldxxdoc:'.                .':codxxdl:;.                                             
+                                             .,;;;;;,'.                    .',;;;;;,.                                              
+                                                                                .                                                  
+                                                                                                                                   """)
